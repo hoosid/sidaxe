@@ -1,6 +1,6 @@
-### Hi there im sidaxe
+### Hi there im sidaxe im programmeur :
 ##ihave a code grid :
-***this is html***
+***this is html grid code***
 ```html
 <!DOCTYPE html>
 <html>
@@ -23,20 +23,13 @@
   padding: 10px;
 }
 ```
-##Définition et utilisation
+>##Définition et utilisation
 |grid|sol|
 |---|----|
-|grille-ligne-début
-grille-colonne-début
-fin de ligne de grille
-grille-colonne-fin|La grid-areapropriété spécifie la taille et l'emplacement d'un élément de grille dans une disposition de grille et est une propriété abrégée pour les propriétés suivantes :
+|grid eara|La grid-areapropriété peut également être utilisée pour attribuer un nom à un élément de grille. Les éléments de grille nommés peuvent ensuite être référencés par la propriété grid-template-areas du conteneur de grille|
+|grid-template-areas|La grid-template-areaspropriété CSS spécifie des zones de grille nommées , établissant les cellules dans la grille et leur attribuant des noms.|
+|gap|La propriété CSS définit les espaces ( gouttières ) entre les lignes et les colonnes. C'est un raccourci pour et .gap row-gapcolumn-gap|
 
-grille-ligne-début
-grille-colonne-début
-fin de ligne de grille
-grille-colonne-fin
-La grid-areapropriété peut également être utilisée pour attribuer un nom à un élément de grille. Les éléments de grille nommés peuvent ensuite être référencés par la propriété grid-template-areas du conteneur de grille. Voir les exemples ci-dessous.
+>***good luck***
 
-
-|
 
