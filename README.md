@@ -1,5 +1,5 @@
 # Hi there im sidaxe im programmeur :
-##ihave a code grid :
+*ihave a code grid :*
 ***this is html grid code***
 ```html
 <!DOCTYPE html>
@@ -23,7 +23,7 @@
   padding: 10px;
 }
 ```
-##Définition et utilisation:
+*Définition et utilisation:*
 |grid|sol|
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |grid eara|La grid-areapropriété peut également être utilisée pour attribuer un nom à un élément de grille. Les éléments de grille nommés peuvent ensuite être référencés par la propriété grid-template-areas du conteneur de grille|
