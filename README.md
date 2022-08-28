@@ -22,5 +22,21 @@
   background-color: #2196F3;
   padding: 10px;
 }
-
 ```
+##Définition et utilisation
+|grid|sol|
+|---|----|
+|grille-ligne-début
+grille-colonne-début
+fin de ligne de grille
+grille-colonne-fin|La grid-areapropriété spécifie la taille et l'emplacement d'un élément de grille dans une disposition de grille et est une propriété abrégée pour les propriétés suivantes :
+
+grille-ligne-début
+grille-colonne-début
+fin de ligne de grille
+grille-colonne-fin
+La grid-areapropriété peut également être utilisée pour attribuer un nom à un élément de grille. Les éléments de grille nommés peuvent ensuite être référencés par la propriété grid-template-areas du conteneur de grille. Voir les exemples ci-dessous.
+
+
+|
+
