@@ -25,7 +25,7 @@
 ```
 >##Définition et utilisation
 |grid|sol|
-|---|----|
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |grid eara|La grid-areapropriété peut également être utilisée pour attribuer un nom à un élément de grille. Les éléments de grille nommés peuvent ensuite être référencés par la propriété grid-template-areas du conteneur de grille|
 |grid-template-areas|La grid-template-areaspropriété CSS spécifie des zones de grille nommées , établissant les cellules dans la grille et leur attribuant des noms.|
 |gap|La propriété CSS définit les espaces ( gouttières ) entre les lignes et les colonnes. C'est un raccourci pour et .gap row-gapcolumn-gap|
